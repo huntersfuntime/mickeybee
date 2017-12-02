@@ -21,9 +21,13 @@
     .works-steps { margin-bottom: 40px; }
     .works-steps:last-of-type { margin-bottom: 60px; }
 
-    .mickeybee-portrait {width: 50%; }
+    .app-screen {width: 50%; }
 
-  
+    .icon-small { 
+        width: 17px;
+        margin-right: 5px;
+    }
+    .city-feature { font-size: 90%;}
 
     .plan-box {
         width: 100%;
