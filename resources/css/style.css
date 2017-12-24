@@ -112,7 +112,7 @@ a:active {
 
 
 header {
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(img/background1.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(img/background2.jpg);
     height: 100vh;
     background-size: cover;
     background-position: center;
@@ -230,7 +230,7 @@ header {
     background-color: white;
     border: 1px solid white;
     border-radius: 200px;
-    color: rgb(49, 80, 65);
+    color: #ECB3A8;
     margin-right: 15px;
 }
 
@@ -244,12 +244,12 @@ header {
 
 .btn-full:hover,
 .btn-full:active, {
-    background-color: rgb(49, 80, 65);
+    background-color: #ECB3A8;
 }
 
 .btn-ghost:hover,
 .btn-ghost:active {
-    background-color: rgb(49, 80, 65);
+    background-color: #ECB3A8;
     color: #fff;
     
 
